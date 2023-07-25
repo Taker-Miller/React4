@@ -1,0 +1,20 @@
+/* styles.css */
+
+.header-nav {
+    background-color: #6654f0;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .header-nav a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+  }
+  
+  .header-nav a:last-child {
+    margin-right: 0;
+  }
+  
